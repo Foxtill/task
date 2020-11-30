@@ -1,0 +1,15 @@
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\IO.exe
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\IO.deps.json
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\IO.runtimeconfig.json
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\IO.runtimeconfig.dev.json
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\IO.dll
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\IO.pdb
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.csprojAssemblyReference.cache
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.AssemblyInfoInputs.cache
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.AssemblyInfo.cs
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.dll
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.pdb
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.genruntimeconfig.cache
+C:\Users\30214\source\repos\IO\IO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.csproj.CoreCompileInputs.cache
+C:\Users\30214\source\repos\IO\IO\obj\Debug\netcoreapp3.1\IO.csproj.CopyComplete
